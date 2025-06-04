@@ -16,7 +16,7 @@ This repository provides Unity Editor tools to help VRM avatar creators set up v
 ## Getting Started
 
 1. Import your VRM avatar and the scripts into your Unity project.
-2. Follow the step-by-step guide in [docs/USAGE_GUIDE.md](docs/USAGE_GUIDE.md).
+2. Follow the step-by-step guide in [USAGE_GUIDE.md](USAGE_GUIDE.md).
 
 ---
 
@@ -29,7 +29,7 @@ This repository provides Unity Editor tools to help VRM avatar creators set up v
 
 ## Documentation
 
-See the full usage guide: [docs/USAGE_GUIDE.md](docs/USAGE_GUIDE.md)
+See the full usage guide: [USAGE_GUIDE.md](USAGE_GUIDE.md)
 
 ---
 
