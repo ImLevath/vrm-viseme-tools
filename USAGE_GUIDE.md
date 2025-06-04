@@ -1,8 +1,5 @@
 # Usage Guide: VRM Viseme and BlendShape Scripts
 
-This page explains how to use the scripts provided in this repository for VRM avatar viseme setup and BlendShape management in Unity.  
-**Note:** The `RenameJapaneseBlendshapes` script is excluded due to compatibility issues with Unity.
-
 ---
 
 ## Prerequisites
