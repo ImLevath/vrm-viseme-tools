@@ -61,7 +61,7 @@ Lists all blendshapes present on the selected SkinnedMeshRenderer in your scene,
 ## Troubleshooting
 
 - **No VRMBlendShapeProxy found:**  
-  Make sure you have selected the VRM root GameObject with the VRMBlendShapeProxy component.
+  Make sure you have selected the VRM root GameObject with the VRMBlendShapeProxy component. If you don't have one add one.
 - **Meta required error on export:**  
   Assign and fill out a VRM Meta Object in the VRM Meta component before exporting.
 
@@ -70,6 +70,6 @@ Lists all blendshapes present on the selected SkinnedMeshRenderer in your scene,
 ## See Also
 
 - [UniVRM Documentation](https://vrm.dev/en/)
-- [VSeeFace Setup Guide](https://www.vseeface.icu/)
+- [VSeeFace Setup Guide](https://www.vseeface.icu/) -- This was created to make japanese made avatars compatible with vseeface
 
 ---
